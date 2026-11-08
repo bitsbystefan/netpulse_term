@@ -76,5 +76,5 @@
             "enabled": false
         }
     ],
-    "interval_seconds": 5
+    "interval_seconds": 2
 }
