@@ -21,6 +21,9 @@ point. Use `--settings /path/to/settings.json` to load another configuration.
 
 No packages or virtual environment are required.
 
+## Demo
+<img width="855" height="389" alt="image" src="https://github.com/user-attachments/assets/c179016a-7172-40fb-9705-0d45d036648d" />
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
