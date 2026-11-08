@@ -1,0 +1,7 @@
+# Personal monitor configuration backup
+.private/
+
+# Python and macOS generated files
+__pycache__/
+*.py[cod]
+.DS_Store
